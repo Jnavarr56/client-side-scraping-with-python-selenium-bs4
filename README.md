@@ -1,5 +1,7 @@
 # Scraping Client Rendered Pages With Python, Selenium, and BeautifulSoup4
 
+I created this to practice and help teach Selenium.
+
 ## Description
 
 Lets use https://www.wunderground.com/history/monthly/KMSY/date as an example.
